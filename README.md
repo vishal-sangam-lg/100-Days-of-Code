@@ -7,4 +7,5 @@ Day 4 - Rock Paper Scissor\
 Day 5 - Password Generator\
 Day 6 - https://reeborg.ca/reeborg.html \
 Day 7 - Hangman\
-Day 8 - Caesar Cipher
+Day 8 - Caesar Cipher\
+Day 9 - Auction
