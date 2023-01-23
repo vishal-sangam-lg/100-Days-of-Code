@@ -42,4 +42,4 @@ One red, one yellow, and one blue. Which color do you choose?''').lower()
     else:
         print("You got attacked by an angry trout. Game Over!")
 else:
-    print("You fell into a hole. Game Over!")
+    print("You fell into a Hole. Game Over!")
