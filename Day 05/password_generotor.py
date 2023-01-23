@@ -38,5 +38,5 @@ random.shuffle(hard_password)
 for char in hard_password:
     password += char
 
-print(f"Easy password: {eazy_password}")
-print("Hard password: {}".format(password))
+print(f"Easy Password: {eazy_password}")
+print("Hard Password: {}".format(password))
