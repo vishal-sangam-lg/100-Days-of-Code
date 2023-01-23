@@ -7,4 +7,4 @@ people = input("How many people to split the bill? ")
 tip = float(bill) * float(int(tip_percentage)/100)
 bill_with_tip = float(bill) + tip
 result = bill_with_tip/int(people)
-print("Each person should pay: ${:.2f}".format(result))
+print("Each Person should pay: ${:.2f}".format(result))
