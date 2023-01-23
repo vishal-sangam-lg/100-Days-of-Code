@@ -7,7 +7,7 @@ print(num_char)
 
 def my_function():
     print("Hello")
-    print("bye")
+    print("Bye")
 
 
 my_function()
