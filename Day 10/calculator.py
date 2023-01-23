@@ -46,7 +46,7 @@ def calculator():
 
         print("{} {} {} = {}".format(num1, operation_symbol, num2, answer))
 
-        if input(f"Type 'y' to continue calculating with {answer}, or type 'n' to exit: ") == "y":
+        if input(f"Type 'y' to continue Calculating with {answer}, or type 'n' to exit: ") == "y":
             num1 = answer
         else:
             should_continue = False
