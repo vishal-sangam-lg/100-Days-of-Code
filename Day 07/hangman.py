@@ -44,9 +44,9 @@ while end_of_game is not True:
         life -= 1
         if life == 0:
             end_of_game = True
-            print("You lose.")
+            print("You Lose.")
     print(" ".join(display))
     if "_" not in display:
         end_of_game = True
-        print("You win.")
+        print("You Win.")
     print(stages[life])
