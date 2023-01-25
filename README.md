@@ -12,6 +12,7 @@
 | Day 8  | Caesar Cipher                   | Functions - parameters and return type |
 | Day 9  | Auction                         | Dictionary                             |
 | Day 10 | Calculator                      | Mathematical Operations                |
-| Day 11 | Blackjack                       | Capstone project                       |
+| Day 11 | Blackjack                       | Logic Building                         |
 | Day 12 | Guess the number                | Scope                                  |
 | Day 13 | Debug                           | Debugging                              |
+| Day 14 | Higher Lower Game               | Logic building                         |
