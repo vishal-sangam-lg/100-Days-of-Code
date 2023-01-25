@@ -14,3 +14,4 @@
 | Day 10 | Calculator                      | Mathematical Operations                |
 | Day 11 | Blackjack                       | Capstone project                       |
 | Day 12 | Guess the number                | Scope                                  |
+| Day 13 | Debug                           | Debugging                              |
