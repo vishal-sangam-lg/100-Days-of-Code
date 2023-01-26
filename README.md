@@ -16,3 +16,4 @@
 | Day 12 | Guess the number                | Scope                                  |
 | Day 13 | Debug                           | Debugging                              |
 | Day 14 | Higher Lower Game               | Logic building                         |
+| Day 15 | Coffee Machine                  | Environment setup                      |
