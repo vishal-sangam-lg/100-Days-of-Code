@@ -18,3 +18,4 @@
 | Day 14 | Higher Lower Game               | Logic building                                  |
 | Day 15 | Coffee Machine                  | Environment setup                               |
 | Day 16 | OOP - Coffee Machine            | Object Oriented Programming, Turtle, Py package |
+| Day 17 | Quiz                            | Object Oriented Programming                     |
