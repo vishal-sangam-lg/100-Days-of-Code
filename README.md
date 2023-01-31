@@ -20,3 +20,4 @@
 | Day 16 | OOP - Coffee Machine            | Object Oriented Programming, Turtle, Py package |
 | Day 17 | Quiz                            | Object Oriented Programming                     |
 | Day 18 | Hirst Painting                  | Turtle Graphics, Graphical User Interface       |
+| Day 19 | Sketch & Turtle Race            | Turtle Event listeners                          |
