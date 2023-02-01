@@ -21,3 +21,4 @@
 | Day 17 | Quiz                            | Object Oriented Programming                     |
 | Day 18 | Hirst Painting                  | Turtle Graphics, Graphical User Interface       |
 | Day 19 | Sketch & Turtle Race            | Turtle Event listeners                          |
+| Day 20 | Snake Game - I                  | Turtle Screen OOP                               |
