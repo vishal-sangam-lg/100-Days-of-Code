@@ -23,3 +23,4 @@
 | Day 19 | Sketch & Turtle Race            | Turtle Event listeners                          |
 | Day 20 | Snake Game - I                  | Turtle Screen OOP                               |
 | Day 21 | Snake Game - II                 | Inheritance, Slicing                            |
+| Day 22 | Pong Game                       | Turtle OOP Logic Building                       |
