@@ -25,4 +25,5 @@
 | Day 21 | Snake Game - II                           | Inheritance, Slicing                            |
 | Day 22 | Pong Game                                 | Turtle OOP Logic Building                       |
 | Day 23 | Turtle Crossing Game                      | Turtle OOP Logic Building                       |
-| Day 24 | Snake Game(High Score) & Letter Generator | Files Directories and Paths                     |   
+| Day 24 | Snake Game(High Score) & Letter Generator | Files Directories and Paths                     |  
+| Day 25 | US States Game                            | Working with CSV data and Pandas Library        |
