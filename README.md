@@ -24,3 +24,4 @@
 | Day 20 | Snake Game - I                  | Turtle Screen OOP                               |
 | Day 21 | Snake Game - II                 | Inheritance, Slicing                            |
 | Day 22 | Pong Game                       | Turtle OOP Logic Building                       |
+| Day 23 | Turtle Crossing Game            | Turtle OOP Logic Building                       |
