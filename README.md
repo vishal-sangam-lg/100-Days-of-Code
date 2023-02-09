@@ -28,3 +28,4 @@
 | Day 24 | Snake Game(High Score) & Letter Generator | Files Directories and Paths                     |  
 | Day 25 | US States Game                            | Working with CSV data and Pandas Library        |
 | Day 26 | NATO Alphabets                            | List Comprehension, Dictionary Comprehension    |
+| Day 27 | Mile to Kilometer Converter               | Tkinter, *args, **kwargs -> GUI                 |
