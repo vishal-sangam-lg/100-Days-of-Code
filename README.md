@@ -30,3 +30,4 @@
 | Day 26 | NATO Alphabets                            | List Comprehension, Dictionary Comprehension    |
 | Day 27 | Mile to Kilometer Converter               | Tkinter basics, *args, **kwargs -> GUI          |
 | Day 28 | Pomodoro                                  | Tkinter GUI, Dynamic Typing                     |
+| Day 29 | Password Manager v1.0                     | Tkinter messagebox, pyperclip, files            |
