@@ -32,3 +32,4 @@
 | Day 28 | Pomodoro                                  | Tkinter GUI, Dynamic Typing                     |
 | Day 29 | Password Manager v1.0                     | Tkinter messagebox, pyperclip, files            |
 | Day 30 | Password Manager v2.0                     | Errors Exceptions, JSON data                    |
+| Day 31 | Flash Card App                            | Tkinter UI                                      |
