@@ -3,3 +3,4 @@ Turtle graphics - https://docs.python.org/3/library/turtle.html
 Pandas - https://pandas.pydata.org/docs/
 Tkinter - https://docs.python.org/3/library/tk.html
 Tkinter - https://tkdocs.com/index.html
+smtplib - https://docs.python.org/3/library/smtplib.html

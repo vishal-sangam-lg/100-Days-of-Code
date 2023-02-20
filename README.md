@@ -33,3 +33,4 @@
 | Day 29 | Password Manager v1.0                     | Tkinter messagebox, pyperclip, files            |
 | Day 30 | Password Manager v2.0                     | Errors Exceptions, JSON data                    |
 | Day 31 | Flash Card App                            | Tkinter UI                                      |
+| Day 32 | Automated Birthday Wisher                 | smtplib, datetime                               |
