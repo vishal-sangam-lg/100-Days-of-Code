@@ -35,3 +35,4 @@
 | Day 31 | Flash Card App                            | Tkinter UI                                      |
 | Day 32 | Automated Birthday Wisher                 | smtplib, datetime                               |
 | Day 33 | ISS Overhead Notifier                     | API                                             |
+| Day 34 | Quiz app with questions from API          | API, Tkinter, OOP                               |
