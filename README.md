@@ -37,3 +37,4 @@
 | Day 33 | ISS Overhead Notifier                     | API                                             |
 | Day 34 | Quiz app with questions from API          | API, Tkinter, OOP                               |
 | Day 35 | Rain Alert                                | Twilio sms, open weather, .env variable         |
+| Day 36 | Stock News alert                          | alphavantage, newsapi, twilio APIs              |
