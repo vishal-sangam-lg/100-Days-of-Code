@@ -6,3 +6,6 @@ Tkinter - https://tkdocs.com/index.html
 smtplib - https://docs.python.org/3/library/smtplib.html
 latlong.net - Converts latitude & longitude and points at location in map
 ventusky - live weather
+alphavantage - stock data
+twilio - send sms
+pixela - Record and track your progress
