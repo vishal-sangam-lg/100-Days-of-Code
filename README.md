@@ -39,3 +39,4 @@
 | Day 35 | Rain Alert                                | Twilio sms, open weather, .env variable         |
 | Day 36 | Stock News alert                          | alphavantage, newsapi, twilio APIs              |
 | Day 37 | Habit Tracker                             | pixela API, (GET POST PUT DELETE) request       |
+| Day 38 | Workout Tracker using Google Sheets       | NLP using nutritionix API. sheety API           |
