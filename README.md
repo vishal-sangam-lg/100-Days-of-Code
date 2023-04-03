@@ -42,3 +42,4 @@
 | Day 38 | Workout Tracker using Google Sheets       | NLP using nutritionix API. sheety API           |
 | Day 41 | CV site                                   | HTML                                            |
 | Day 42 | https://vishal-sangam.github.io/cv/       | HTML, Hosting with GitHub Pages                 |
+| Day 43 | Designed Personal CV                      | HTML, CSS                                       |
