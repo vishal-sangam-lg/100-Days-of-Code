@@ -43,3 +43,4 @@
 | Day 41 | CV site                                   | HTML                                            |
 | Day 42 | https://vishal-sangam.github.io/cv/       | HTML, Hosting with GitHub Pages                 |
 | Day 43 | Designed Personal CV                      | HTML, CSS                                       |
+| Day 44 | https://vishal-sangam.github.io/mysite/   | HTML, CSS, GitHub Pages                         |
