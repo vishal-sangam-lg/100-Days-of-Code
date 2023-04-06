@@ -45,3 +45,4 @@
 | Day 43 | Designed Personal CV                      | HTML, CSS                                       |
 | Day 44 | https://vishal-sangam.github.io/mysite/   | HTML, CSS, GitHub Pages                         |
 | Day 45 | 100 Movies of all time                    | Web scraping with beautiful soup                |
+| Day 46 | Spotify Playlist of Billboard 100         | Web scraping, Spotify manipulation with spotipy |
