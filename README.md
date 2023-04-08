@@ -47,3 +47,4 @@
 | Day 45 | 100 Movies of all time                    | Web scraping with beautiful soup                |
 | Day 46 | Spotify Playlist of Billboard 100         | Web scraping, Spotify manipulation with spotipy |
 | Day 47 | Amazon Price Tracker                      | Web scraping, SMTP                              |
+| Day 48 | Cookie Clicker Bot                        | Selenium - Web scraping with interactions       |
