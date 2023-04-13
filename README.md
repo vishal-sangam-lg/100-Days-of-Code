@@ -51,3 +51,4 @@
 | Day 49 | Automating Job Applications on LinkedIn   | Selenium - Form filling, clicking               |
 | Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click  |   
 | Day 51 | Internet Speed Twitter Complaint Bot      | Selenium - Login, click, write tweet            |
+| Day 52 | Instagram Follower Bot                    | Selenium                                        |
