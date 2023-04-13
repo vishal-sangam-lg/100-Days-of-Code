@@ -49,4 +49,5 @@
 | Day 47 | Amazon Price Tracker                      | Web scraping, SMTP                              |
 | Day 48 | Cookie Clicker Bot                        | Selenium - Web scraping with interactions       |
 | Day 49 | Automating Job Applications on LinkedIn   | Selenium - Form filling, clicking               |
-| Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click  |    
+| Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click  |   
+| Day 51 | Internet Speed Twitter Complaint Bot      | Selenium - Login, click, write tweet            |
