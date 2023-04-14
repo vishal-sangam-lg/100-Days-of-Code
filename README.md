@@ -52,3 +52,4 @@
 | Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click  |   
 | Day 51 | Internet Speed Twitter Complaint Bot      | Selenium - Login, click, write tweet            |
 | Day 52 | Instagram Follower Bot                    | Selenium                                        |
+| Day 53 | Zillow San Fran Rentals - Capstone        | Selenium, Webscraping - Beautiful Soup          |
