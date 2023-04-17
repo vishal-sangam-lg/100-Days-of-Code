@@ -54,3 +54,4 @@
 | Day 52 | Instagram Follower Bot                    | Selenium                                        |
 | Day 53 | Zillow San Fran Rentals - Capstone        | Selenium, Webscraping - Beautiful Soup          |
 | Day 54 | Hello Flask                               | Command Line, Python Decorators, Flask          |
+| Day 55 | Higher Lower Game                         | Flask, Python Decorators                        |
