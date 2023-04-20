@@ -9,3 +9,5 @@ ventusky - live weather
 alphavantage - stock data
 twilio - send sms
 pixela - Record and track your progress
+Flask - https://flask.palletsprojects.com/en/2.2.x/tutorial/
+Jinja - https://jinja.palletsprojects.com/en/3.1.x/
