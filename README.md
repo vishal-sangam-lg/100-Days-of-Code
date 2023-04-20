@@ -57,3 +57,4 @@
 | Day 55 | Higher Lower Game                         | Flask, Python Decorators                        |
 | Day 56 | Personal-Site template                    | Flask - rendering templates, static files       |
 | Day 57 | Blog-Templating                           | Flask, Templating with Jinja                    |
+| Day 58 | TinDog - Tinder for dogs                  | Bootstrap - css framework                       |
