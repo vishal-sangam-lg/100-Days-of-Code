@@ -58,3 +58,4 @@
 | Day 56 | Personal-Site template                    | Flask - rendering templates, static files       |
 | Day 57 | Blog-Templating                           | Flask, Templating with Jinja                    |
 | Day 58 | TinDog - Tinder for dogs                  | Bootstrap - css framework                       |
+| Day 59 | Blog-site (styled)                        | Flask, Jinja templating, Bootstrap              |
