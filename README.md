@@ -60,3 +60,4 @@
 | Day 58 | TinDog - Tinder for dogs                  | Bootstrap - css framework                       |
 | Day 59 | Blog-site (styled)                        | Flask, Jinja templating, Bootstrap              |
 | Day 60 | Blog - Contact Form Functionality         | Flask, Handling forms - post requests, SMTP     |
+| Day 61 | Login Form with WTForms validation        | Flask-WTForms, Jinja - Inheriting templates     |
