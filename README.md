@@ -62,3 +62,4 @@
 | Day 60 | Blog - Contact Form Functionality         | Flask, Handling forms - post requests, SMTP     |
 | Day 61 | Login Form with WTForms validation        | Flask-WTForms, Jinja - Inheriting templates     |
 | Day 62 | Coffee shops rating                       | Flask-WTForms, Flask-Bootstrap templating       |
+| Day 63 | Library Management System                 | Flask-SQLAlchemy, sqlite CRUD operations        |
