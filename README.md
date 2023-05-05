@@ -64,3 +64,4 @@
 | Day 62 | Coffee shops rating                       | Flask-WTForms, Flask-Bootstrap templating          |
 | Day 63 | Library Management System                 | Flask-SQLAlchemy, sqlite CRUD operations           |
 | Day 64 | Top 10 Movies Collection                  | Flask-SQLAlchemy, Jinja, Bootstrap, Flask-WTForms  |
+| Day 65 | Design using Canva                        | Web Design School                                  |
