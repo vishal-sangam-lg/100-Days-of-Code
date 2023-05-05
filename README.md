@@ -1,65 +1,66 @@
 # 100 Days of Code - PYTHON
 
-|  Day   | Project                                   | Topics                                          |
-|:------:|:------------------------------------------|:------------------------------------------------|
-| Day 1  | Band Name Generator                       | print(), input()                                |
-| Day 2  | Tip Calculator                            | Converting Types                                |
-| Day 3  | Treasure Island                           | if else ladder                                  |
-| Day 4  | Rock Paper Scissor                        | Lists, Modules, randint()                       |
-| Day 5  | Password Generator                        | Loops                                           |
-| Day 6  | https://reeborg.ca/reeborg.html           | Functions                                       |
-| Day 7  | Hangman                                   | String Manipulation                             |
-| Day 8  | Caesar Cipher                             | Functions - parameters and return type          |
-| Day 9  | Auction                                   | Dictionary                                      |
-| Day 10 | Calculator                                | Mathematical Operations                         |
-| Day 11 | Blackjack                                 | Logic Building                                  |
-| Day 12 | Guess the number                          | Scope                                           |
-| Day 13 | Debug                                     | Debugging                                       |
-| Day 14 | Higher Lower Game                         | Logic building                                  |
-| Day 15 | Coffee Machine                            | Environment setup                               |
-| Day 16 | OOP - Coffee Machine                      | Object Oriented Programming, Turtle, Py package |
-| Day 17 | Quiz                                      | Object Oriented Programming                     |
-| Day 18 | Hirst Painting                            | Turtle Graphics, Graphical User Interface       |
-| Day 19 | Sketch & Turtle Race                      | Turtle Event listeners                          |
-| Day 20 | Snake Game - I                            | Turtle Screen OOP                               |
-| Day 21 | Snake Game - II                           | Inheritance, Slicing                            |
-| Day 22 | Pong Game                                 | Turtle OOP Logic Building                       |
-| Day 23 | Turtle Crossing Game                      | Turtle OOP Logic Building                       |
-| Day 24 | Snake Game(High Score) & Letter Generator | Files Directories and Paths                     |  
-| Day 25 | US States Game                            | Working with CSV data and Pandas Library        |
-| Day 26 | NATO Alphabets                            | List Comprehension, Dictionary Comprehension    |
-| Day 27 | Mile to Kilometer Converter               | Tkinter basics, *args, **kwargs -> GUI          |
-| Day 28 | Pomodoro                                  | Tkinter GUI, Dynamic Typing                     |
-| Day 29 | Password Manager v1.0                     | Tkinter messagebox, pyperclip, files            |
-| Day 30 | Password Manager v2.0                     | Errors Exceptions, JSON data                    |
-| Day 31 | Flash Card App                            | Tkinter UI                                      |
-| Day 32 | Automated Birthday Wisher                 | smtplib, datetime                               |
-| Day 33 | ISS Overhead Notifier                     | API                                             |
-| Day 34 | Quiz app with questions from API          | API, Tkinter, OOP                               |
-| Day 35 | Rain Alert                                | Twilio sms, open weather, .env variable         |
-| Day 36 | Stock News alert                          | alphavantage, newsapi, twilio APIs              |
-| Day 37 | Habit Tracker                             | pixela API, (GET POST PUT DELETE) request       |
-| Day 38 | Workout Tracker using Google Sheets       | NLP using nutritionix API. sheety API           |
-| Day 41 | CV site                                   | HTML                                            |
-| Day 42 | https://vishal-sangam.github.io/cv/       | HTML, Hosting with GitHub Pages                 |
-| Day 43 | Designed Personal CV                      | HTML, CSS                                       |
-| Day 44 | https://vishal-sangam.github.io/mysite/   | HTML, CSS, GitHub Pages                         |
-| Day 45 | 100 Movies of all time                    | Web scraping with beautiful soup                |
-| Day 46 | Spotify Playlist of Billboard 100         | Web scraping, Spotify manipulation with spotipy |
-| Day 47 | Amazon Price Tracker                      | Web scraping, SMTP                              |
-| Day 48 | Cookie Clicker Bot                        | Selenium - Web scraping with interactions       |
-| Day 49 | Automating Job Applications on LinkedIn   | Selenium - Form filling, clicking               |
-| Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click  |   
-| Day 51 | Internet Speed Twitter Complaint Bot      | Selenium - Login, click, write tweet            |
-| Day 52 | Instagram Follower Bot                    | Selenium                                        |
-| Day 53 | Zillow San Fran Rentals - Capstone        | Selenium, Webscraping - Beautiful Soup          |
-| Day 54 | Hello Flask                               | Command Line, Python Decorators, Flask          |
-| Day 55 | Higher Lower Game                         | Flask, Python Decorators                        |
-| Day 56 | Personal-Site template                    | Flask - rendering templates, static files       |
-| Day 57 | Blog-Templating                           | Flask, Templating with Jinja                    |
-| Day 58 | TinDog - Tinder for dogs                  | Bootstrap - css framework                       |
-| Day 59 | Blog-site (styled)                        | Flask, Jinja templating, Bootstrap              |
-| Day 60 | Blog - Contact Form Functionality         | Flask, Handling forms - post requests, SMTP     |
-| Day 61 | Login Form with WTForms validation        | Flask-WTForms, Jinja - Inheriting templates     |
-| Day 62 | Coffee shops rating                       | Flask-WTForms, Flask-Bootstrap templating       |
-| Day 63 | Library Management System                 | Flask-SQLAlchemy, sqlite CRUD operations        |
+|  Day   | Project                                   | Topics                                             |
+|:------:|:------------------------------------------|:---------------------------------------------------|
+| Day 1  | Band Name Generator                       | print(), input()                                   |
+| Day 2  | Tip Calculator                            | Converting Types                                   |
+| Day 3  | Treasure Island                           | if else ladder                                     |
+| Day 4  | Rock Paper Scissor                        | Lists, Modules, randint()                          |
+| Day 5  | Password Generator                        | Loops                                              |
+| Day 6  | https://reeborg.ca/reeborg.html           | Functions                                          |
+| Day 7  | Hangman                                   | String Manipulation                                |
+| Day 8  | Caesar Cipher                             | Functions - parameters and return type             |
+| Day 9  | Auction                                   | Dictionary                                         |
+| Day 10 | Calculator                                | Mathematical Operations                            |
+| Day 11 | Blackjack                                 | Logic Building                                     |
+| Day 12 | Guess the number                          | Scope                                              |
+| Day 13 | Debug                                     | Debugging                                          |
+| Day 14 | Higher Lower Game                         | Logic building                                     |
+| Day 15 | Coffee Machine                            | Environment setup                                  |
+| Day 16 | OOP - Coffee Machine                      | Object Oriented Programming, Turtle, Py package    |
+| Day 17 | Quiz                                      | Object Oriented Programming                        |
+| Day 18 | Hirst Painting                            | Turtle Graphics, Graphical User Interface          |
+| Day 19 | Sketch & Turtle Race                      | Turtle Event listeners                             |
+| Day 20 | Snake Game - I                            | Turtle Screen OOP                                  |
+| Day 21 | Snake Game - II                           | Inheritance, Slicing                               |
+| Day 22 | Pong Game                                 | Turtle OOP Logic Building                          |
+| Day 23 | Turtle Crossing Game                      | Turtle OOP Logic Building                          |
+| Day 24 | Snake Game(High Score) & Letter Generator | Files Directories and Paths                        |  
+| Day 25 | US States Game                            | Working with CSV data and Pandas Library           |
+| Day 26 | NATO Alphabets                            | List Comprehension, Dictionary Comprehension       |
+| Day 27 | Mile to Kilometer Converter               | Tkinter basics, *args, **kwargs -> GUI             |
+| Day 28 | Pomodoro                                  | Tkinter GUI, Dynamic Typing                        |
+| Day 29 | Password Manager v1.0                     | Tkinter messagebox, pyperclip, files               |
+| Day 30 | Password Manager v2.0                     | Errors Exceptions, JSON data                       |
+| Day 31 | Flash Card App                            | Tkinter UI                                         |
+| Day 32 | Automated Birthday Wisher                 | smtplib, datetime                                  |
+| Day 33 | ISS Overhead Notifier                     | API                                                |
+| Day 34 | Quiz app with questions from API          | API, Tkinter, OOP                                  |
+| Day 35 | Rain Alert                                | Twilio sms, open weather, .env variable            |
+| Day 36 | Stock News alert                          | alphavantage, newsapi, twilio APIs                 |
+| Day 37 | Habit Tracker                             | pixela API, (GET POST PUT DELETE) request          |
+| Day 38 | Workout Tracker using Google Sheets       | NLP using nutritionix API. sheety API              |
+| Day 41 | CV site                                   | HTML                                               |
+| Day 42 | https://vishal-sangam.github.io/cv/       | HTML, Hosting with GitHub Pages                    |
+| Day 43 | Designed Personal CV                      | HTML, CSS                                          |
+| Day 44 | https://vishal-sangam.github.io/mysite/   | HTML, CSS, GitHub Pages                            |
+| Day 45 | 100 Movies of all time                    | Web scraping with beautiful soup                   |
+| Day 46 | Spotify Playlist of Billboard 100         | Web scraping, Spotify manipulation with spotipy    |
+| Day 47 | Amazon Price Tracker                      | Web scraping, SMTP                                 |
+| Day 48 | Cookie Clicker Bot                        | Selenium - Web scraping with interactions          |
+| Day 49 | Automating Job Applications on LinkedIn   | Selenium - Form filling, clicking                  |
+| Day 50 | Tinder Swiping Bot                        | Selenium - Multiple windows, login form, click     |   
+| Day 51 | Internet Speed Twitter Complaint Bot      | Selenium - Login, click, write tweet               |
+| Day 52 | Instagram Follower Bot                    | Selenium                                           |
+| Day 53 | Zillow San Fran Rentals - Capstone        | Selenium, Webscraping - Beautiful Soup             |
+| Day 54 | Hello Flask                               | Command Line, Python Decorators, Flask             |
+| Day 55 | Higher Lower Game                         | Flask, Python Decorators                           |
+| Day 56 | Personal-Site template                    | Flask - rendering templates, static files          |
+| Day 57 | Blog-Templating                           | Flask, Templating with Jinja                       |
+| Day 58 | TinDog - Tinder for dogs                  | Bootstrap - css framework                          |
+| Day 59 | Blog-site (styled)                        | Flask, Jinja templating, Bootstrap                 |
+| Day 60 | Blog - Contact Form Functionality         | Flask, Handling forms - post requests, SMTP        |
+| Day 61 | Login Form with WTForms validation        | Flask-WTForms, Jinja - Inheriting templates        |
+| Day 62 | Coffee shops rating                       | Flask-WTForms, Flask-Bootstrap templating          |
+| Day 63 | Library Management System                 | Flask-SQLAlchemy, sqlite CRUD operations           |
+| Day 64 | Top 10 Movies Collection                  | Flask-SQLAlchemy, Jinja, Bootstrap, Flask-WTForms  |
