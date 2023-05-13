@@ -66,3 +66,4 @@
 | Day 64 | Top 10 Movies Collection                  | Flask-SQLAlchemy, Jinja, Bootstrap, Flask-WTForms |
 | Day 65 | Design using Canva                        | Web Design School                                 |
 | Day 66 | Cafe & Wifi REST API                      | API - Flask, testing and documentation - postman  |
+| Day 67 | Blog Capstone Project                     | RESTful API - Flask, Jinja, sqlite                |
