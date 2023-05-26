@@ -67,3 +67,4 @@
 | Day 65 | Design using Canva                        | Web Design School                                 |
 | Day 66 | Cafe & Wifi REST API                      | API - Flask, testing and documentation - postman  |
 | Day 67 | Blog Capstone Project                     | RESTful API - Flask, Jinja, sqlite                |
+| Day 68 | Flask login to access Cheatsheet          | Flask Authentication                              |
